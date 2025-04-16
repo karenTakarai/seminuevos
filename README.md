@@ -1,2 +1,2 @@
 # seminuevos
-javascript RPA (front-end)
+javascript RPA (back-end)
